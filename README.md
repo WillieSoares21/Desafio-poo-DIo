@@ -149,3 +149,5 @@ Se possível:<br>
 ------------
 
 Disponibilizado com ♥ por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").
+
+Realizado esse projeto com pequenas alterações com finalidade de estudo por [Willie]_("https://www.linkedin.com/in/WillieSoares").
